@@ -1,5 +1,6 @@
 # Forward Drive
 Small 2D Unity driving game. 
+Download the game for Windows [here](https://github.com/dme998/ForwardDrive/releases/tag/v1.0).
 
 ![Forward Drive sample screenshot](/Report/screenshot.png)
 
@@ -21,6 +22,10 @@ You lose if you either collide with an obstacle or run out of fuel before reacch
 | Steering      | A, D    | Left arrow, Right arrow  |
 | Quick Restart | R       | |
 
+
+### System Requirements
+100 MB memory<br>
+55 MB storage
 
 ### Additional
 Image and sound assets are not owned by me. They are commercial-free, direct from the [Unity asset store](https://assetstore.unity.com/). 
