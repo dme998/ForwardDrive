@@ -28,4 +28,7 @@ You lose if you either collide with an obstacle or run out of fuel before reacch
 55 MB storage
 
 ### Additional
-Image and sound assets are not owned by me. They are commercial-free, direct from the [Unity asset store](https://assetstore.unity.com/). 
+Author: Daniel Eggers <br>
+Instructor: Henry Kang <br>
+Date: 12/13/2020 <br>
+Image and sound assets are not owned by me. They are commercial-free, direct from the [Unity asset store](https://assetstore.unity.com/). <br>
